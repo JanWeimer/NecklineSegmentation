@@ -6,3 +6,5 @@ In the Prepare Data Notebook, the data is scaled to the rigth format and data au
 
 In Train Unet the neural network is trained. The Network is actually not a common UNet, but quite similar. I took the design from a webpage and then modified it to my purposes. At the end of the notebook, the results are visually checked.
 
+The path variables have to be changed in all scripts, as I did work on my local drive due to the big data sizes.
+
